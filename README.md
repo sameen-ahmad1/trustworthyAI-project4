@@ -1,5 +1,5 @@
 # Project 4: Using AI in Ways That Matter to You
-Sameen Ahmad
+#### Sameen Ahmad
 
 ## Theme and Prompt: AI as a Collaborative Creative Partner
 The core of this project was to move beyond the Chatbot usage of Large Language Models (LLMs) and instead treat GPT-4 as a Co-Producer and Creative Director. I selected the first option, AI as a Collaborative Creative Partner. My specific task was the conceptualization and structural design of a Latin Trap song titled "Después de las 2" inspired by the 2017 musical era of the artist Bad Bunny. This era is historically significant in the Latin urban genre for its transition from high-tempo reggaeton to a slower, darker, and more introspective "Trap-Latino" sound. By choosing this specific sub-genre, I set a high bar for the AI to understand not just language, but the cultural significance and technical constraints of a very specific moment in music history.
