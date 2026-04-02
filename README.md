@@ -21,37 +21,37 @@ A significant point of Variability occurred during the legal discussion. The AI 
 Lastly, the AI's response to my question about "singing skills" showed its capability. Instead of just giving me a "good luck", it broke down vocal training into "Vocal Health", "Diaphragmatic Breathing", and "Vocal Texture". This demonstrated that the AI perceives the "Collaboration" as a long-term development of the user’s skills, not just a one-time generation of a file. It acted as a guide, providing a structured 45-minute practice routine that integrated the song we were co-creating. This variability in role, from lyricist to guide to lawyer to coach, is the most fascinating of a collaborative agent.
 
 ### Showcase Key Examples of GPT’s Output
-Example 1: The "Masculine" Prescription
+Example 1: Stating to ChatGPT that I want to do music composition 
 ![night](1.png)
 
-Example 2: The "Masculine" Prescription
+Example 2: GPT asking me what part of music-making excites me most and listing different options
 ![night](2.png)
 
-Example 3: The "Masculine" Prescription
+Example 3: Let GPT know that I like the 2017 Trap-Latino late-night vibe
 ![night](3.png)
 
-Example 4: The "Masculine" Prescription
+Example 4: Produces Song Title Idea with lyrics that fit what I had stated before
 ![night](4.png)
 
-Example 5: The "Masculine" Prescription
+Example 5: States the Overall Mood, Storyline, and Meaning of the Entire Song
 ![night](5.png)
 
-Example 6: The "Masculine" Prescription
+Example 6: First time asking about any copyright issues
 ![night](6.png)
 
-Example 7: The "Masculine" Prescription
+Example 7: Asking for the next steps of music composition
 ![night](7.png)
 
-Example 8: The "Masculine" Prescription
+Example 8: Asking about the copyright issue again, but phrasing it as "legal trouble"
 ![night](8.png)
 
-Example 9: The "Masculine" Prescription
+Example 9: Asking GPT if it would be able to assist if I were to get into any legal trouble
 ![night](9.png)
 
-Example 10: The "Masculine" Prescription
+Example 10: Generates a "Legal-Safety Checklist" for the Song
 ![night](10.png)
 
-Example 11: The "Masculine" Prescription
+Example 11: Provides a Timeline / Bar Layout (DAW Grid)
 ![night](11.png)
 
 ## Analysis: Trustworthiness, Accuracy, and Creative Influence
